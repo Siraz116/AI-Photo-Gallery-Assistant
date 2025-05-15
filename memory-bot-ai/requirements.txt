@@ -13,7 +13,7 @@ numpy
 scikit-learn
 
 # AI & LLMs
-google-generativeai=0.8.4
+google-generativeai==0.8.4
 langchain==0.3.18
 langchain-core==0.3.34
 langchain-community==0.3.17
